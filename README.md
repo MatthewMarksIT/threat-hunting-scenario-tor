@@ -40,7 +40,7 @@ DeviceFileEvents
 | order by Timestamp desc  
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account = InitiatingProcessAccountName
 ```
-<img width="1212" alt="image" src="(https://github.com/MatthewMarksIT/threat-hunting-scenario-tor/blob/main/device_file_events_tor.png)">
+<img width="1163" height="560" alt="Image" src="https://github.com/user-attachments/assets/fa9b4839-56d3-41e5-b977-f934b16a4591" />
 
 ---
 
